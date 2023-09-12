@@ -1,890 +1,1002 @@
-"contacts": [{
-  id: uuidv4(),
-  fullName: "2. KAT CAY OCAGI",
-  value: "2. KAT CAY OCAGI",
-  internal: "0967",
-  external: "08504400967",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id:uuidv4(),
-  fullName: "ADEM ILERI",
-  value: "ADEM ILERI",
-  internal: "0938",
-  external: "08504400938",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "AHMET UREN",
-  value: "AHMET UREN",
-  internal: "0979",
-  external: "08504400979",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "GIZEM ERDEMIR",
-  value: "GIZEM ERDEMIR",
-  internal: "0961",
-  external: "08504400961",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "ARSIV",
-  value: "ARSIV",
-  internal: "0953",
-  external: "08504400953",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "ASFALT SANTIYESI",
-  value: "ASFALT SANTIYESI",
-  internal: "0930",
-  external: "08504400930",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "AYSE ALTAY",
-  value: "AYSE ALTAY",
-  'internal': "0916",
-  external: "08504400916",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "AYSEGUL AKSU",
-  value: "AYSEGUL AKSU",
-  internal: "0887",
-  external: "08504400887",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "BAHATTİN CAVDAR",
-  value: "BAHATTİN CAVDAR",
-  internal: "0925",
-  external: "08504400925",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "BEGUM KARTAL",
-  value: "BEGUM KARTAL",
-  internal: "0890",
-  external: "08504400890",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "BERKIN CEVIK",
-  value: "BERKIN CEVIK",
-  internal: "0957",
-  external: "08504400957",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "BILAL MUTLU",
-  value: "BILAL MUTLU",
-  internal: "0893",
-  external: "08504400893",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "BINA SORUMLUSU",
-  value: "BINA SORUMLUSU",
-  internal: "0973",
-  external: "08504400973",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "BUSRA CAVDAR",
-  value: "BUSRA CAVDAR",
-  internal: "0954",
-  external: "08504400954",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "CANER ALKIS",
-  value: "CANER ALKIS",
-  internal: "0889",
-  external: "08504400889",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "CEM BURSALI",
-  value: "CEM BURSALI",
-  internal: "0978",
-  external: "08504400978",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "CEVRE DANISMA",
-  value: "CEVRE DANISMA",
-  internal: "0975",
-  external: "08504400975",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "CEYDA DUVENCİ",
-  value: "CEYDA DUVENCİ",
-  internal: "0922",
-  external: "08504400922",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "CICEK GULAY",
-  value: "CICEK GULAY",
-  internal: "0952",
-  external: "08504400952",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "DANISMA",
-  value: "DANISMA",
-  internal: "0970",
-  external: "08504400970",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "IS GUVENLIK UZMANI",
-  value: "IS GUVENLIK UZMANI",
-  internal: "0992",
-  external: "08504400992",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "DENIZ ERMEN",
-  value: "DENIZ ERMEN",
-  internal: "0955",
-  external: "08504400955",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "DERYA BASKAYA",
-  value: "DERYA BASKAYA",
-  internal: "0928",
-  external: "08504400928",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "DEVRIM YASAR YILMAZ",
-  value: "DEVRIM YASAR YILMAZ",
-  internal: "0948",
-  external: "08504400948",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "DILEK BAYRAKTAR",
-  value: "DILEK BAYRAKTAR",
-  internal: "0996",
-  external: "08504400996",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "EBRU SIRAY",
-  value: "EBRU SIRAY",
-  internal: "0943",
-  external: "08504400943",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "EDA ISIK",
-  value: "EDA ISIK",
-  internal: "0924",
-  external: "08504400924",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "ELIF INCE",
-  value: "ELIF INCE",
-  internal: "0902",
-  external: "08504400902",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "EMLAK SERVİSİ",
-  value: "EMLAK SERVİSİ",
-  internal: "0977",
-  external: "08504400977",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "ERBIL OZUM",
-  value: "ERBIL OZUM",
-  internal: "0951",
-  external: "08504400951",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "EREGLI DUGUN SALONU",
-  value: "EREGLI DUGUN SALONU",
-  internal: "0983",
-  external: "08504400983",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "EREGLI GARAJ",
-  value: "EREGLI GARAJ",
-  internal: "0931",
-  external: "08504400931",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "ERSIN ILHAN",
-  value: "ERSIN ILHAN",
-  internal: "0903",
-  external: "08504400903",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "EVRAK DAGITIM",
-  value: "EVRAK DAGITIM",
-  internal: "0985",
-  external: "08504400985",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "EVRAK KAYIT",
-  value: "EVRAK KAYIT",
-  internal: "0918",
-  external: "08504400918",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "EVRAK KAYIT 2",
-  value: "EVRAK KAYIT 2",
-  internal: "0915",
-  external: "08504400915",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "FEYYAZ ALTINKAYNAK",
-  value: "FEYYAZ ALTINKAYNAK",
-  internal: "0881",
-  external: "08504400881",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "FULDEN KAYA",
-  value: "FULDEN KAYA",
-  internal: "0980",
-  external: "08504400980",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "FUSUN DONMEZLER",
-  value: "FUSUN DONMEZLER",
-  internal: "0969",
-  external: "08504400969",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "GENCLIK MERKEZI",
-  value: "GENCLIK MERKEZI",
-  internal: "0984",
-  external: "08504400984",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "GIZEM KUTBAY",
-  value: "GIZEM KUTBAY",
-  internal: "0908",
-  external: "08504400908",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "GIZEM SERTAKAN",
-  value: "GIZEM SERTAKAN",
-  internal: "0974",
-  external: "08504400974",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "GIZEM TUNC",
-  value: "GIZEM TUNC",
-  internal: "0981",
-  external: "08504400981",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "MUMIN DEMIRTAS",
-  value: "MUMIN DEMIRTAS",
-  internal: "0936",
-  external: "08504400936",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "GULUMSER BAYRAKTAR",
-  value: "GULUMSER BAYRAKTAR",
-  internal: "0994",
-  external: "08504400994",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "HANDE AYDIN",
-  value: "HANDE AYDIN",
-  internal: "0898",
-  external: "08504400898",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "HANDE SIRAY",
-  value: "HANDE SIRAY",
-  internal: "0982",
-  external: "08504400982",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "HARUN CALISKAN",
-  value: "HARUN CALISKAN",
-  internal: "0945",
-  external: "08504400945",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "HATICE DEMIR",
-  value: "HATICE DEMIR",
-  internal: "0907",
-  external: "08504400907",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "HICRAN PEHLIVAN",
-  value: "HICRAN PEHLIVAN",
-  internal: "0913",
-  external: "08504400913",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "HIKMET ATA",
-  value: "HIKMET ATA",
-  internal: "0989",
-  external: "08504400989",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "HILAL ISCAN",
-  value: "HILAL ISCAN",
-  internal: "0944",
-  external: "08504400944",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "IHALE SALONU",
-  value: "IHALE SALONU",
-  internal: "0894",
-  external: "08504400894",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "ILKER SUNGUR",
-  value: "ILKER SUNGUR",
-  internal: "0880",
-  external: "08504400880",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "IMAR ARSIV",
-  value: "IMAR ARSIV",
-  internal: "0941",
-  external: "08504400941",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "ISMAIL OZDER",
-  value: "ISMAIL OZDER",
-  internal: "0904",
-  external: "08504400904",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "ISYERI HEKIMI",
-  value: "ISYERI HEKIMI",
-  internal: "0968",
-  external: "08504400968",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "KADER CAMBAZOGLU",
-  value: "KADER CAMBAZOGLU",
-  internal: "0895",
-  external: "08504400895",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: uuidv4(),
-  fullName: "KAYA KOCAMAN",
-  value: "KAYA KOCAMAN",
-  internal: "0949",
-  external: "08504400949",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "MADEN ISLERI",
-  value: "MADEN ISLERI",
-  internal: "0906",
-  external: "08504400906",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: uuidv4(),
-  fullName: "MEHMET ATASOY",
-  value: "MEHMET ATASOY",
-  internal: "0947",
-  external: "08504400947",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: uuidv4(),
-  fullName: "MELEK ARABACI",
-  value: "MELEK ARABACI",
-  internal: "0991",
-  "": "08504400991",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 63,
-  fullName: "MELEK YAMAN",
-  value: "MELEK YAMAN",
-  internal: "0884",
-  external: "08504400884",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 64,
-  fullName: "MELISA YILMAZ",
-  value: "MELISA YILMAZ",
-  internal: "0892",
-  external: "08504400892",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 65,
-  fullName: "MELTEM HASGUL",
-  value: "MELTEM HASGUL",
-  internal: "0888",
-  external: "08504400888",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 66,
-  fullName: "MUHAMMED OZSIYAM",
-  value: "MUHAMMED OZSIYAM",
-  internal: "0885",
-  external: "08504400885",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 67,
-  fullName: "MÜRVET ERYILMAZ",
-  value: "MÜRVET ERYILMAZ",
-  internal: "0976",
-  external: "08504400976",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 68,
-  fullName: "MUSTAFA KIRCAOGLU",
-  value: "MUSTAFA KIRCAOGLU",
-  internal: "0946",
-  external: "08504400946",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 69,
-  fullName: "NALAN YAVUZ",
-  value: "NALAN YAVUZ",
-  internal: "0897",
-  external: "08504400897",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 70,
-  fullName: "NURTEN DOGAN",
-  value: "NURTEN DOGAN",
-  internal: "0940",
-  external: "08504400940",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 71,
-  fullName: "OPERATOR",
-  value: "OPERATOR",
-  internal: "1010",
-  external: "08504401010",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 72,
-  fullName: "OZAY YILMAZ",
-  value: "OZAY YILMAZ",
-  internal: "0972",
-  external: "08504400972",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 73,
-  fullName: "PARK BAHCE SANTIYE",
-  value: "PARK BAHCE SANTIYE",
-  internal: "0900",
-  external: "08504400900",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 74,
-  fullName: "PLAN PROJE",
-  value: "PLAN PROJE",
-  internal: "0942",
-  external: "08504400942",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 75,
-  fullName: "PROJE RUHSAT",
-  value: "PROJE RUHSAT",
-  internal: "0956",
-  external: "08504400956",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 76,
-  fullName: "SAIM DEMIRYOL",
-  value: "SAIM DEMIRYOL",
-  internal: "0886",
-  external: "08504400886",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 77,
-  fullName: "SEKRETERLIK",
-  value: "SEKRETERLIK",
-  internal: "0993",
-  external: "08504400993",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 78,
-  fullName: "SELEN DONMEZ",
-  value: "SELEN DONMEZ",
-  internal: "0896",
-  external: "08504400896",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 79,
-  fullName: "SELIN OF",
-  value: "SELIN OF",
-  internal: "0927",
-  external: "08504400927",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 80,
-  fullName: "SEMANUR MERCAN",
-  value: "SEMANUR MERCAN",
-  internal: "0923",
-  external: "08504400923",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 81,
-  fullName: "SEMRA ACAR",
-  value: "SEMRA ACAR",
-  internal: "0899",
-  external: "08504400899",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 82,
-  fullName: "SENA ILERI",
-  value: "SENA ILERI",
-  internal: "0958",
-  external: "08504400958",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 83,
-  fullName: "SENOL OSMANOGLU",
-  value: "SENOL OSMANOGLU",
-  internal: "0882",
-  external: "08504400882",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 84,
-  fullName: "SERKAN KILICCI",
-  value: "SERKAN KILICCI",
-  internal: "0905",
-  external: "08504400905",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 85,
-  fullName: "SEVVAL ZAFER",
-  value: "SEVVAL ZAFER",
-  internal: "0995",
-  external: "08504400995",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 86,
-  fullName: "SİBEL CARTI",
-  value: "SİBEL CARTI",
-  internal: "0937",
-  external: "08504400937",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 87,
-  fullName: "SIBEL DEMIRYOL",
-  value: "SIBEL DEMIRYOL",
-  internal: "0914",
-  external: "08504400914",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 88,
-  fullName: "SIBEL GULOVA",
-  value: "SIBEL GULOVA",
-  internal: "0939",
-  external: "08504400939",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 89,
-  fullName: "SINEM OZUPEK",
-  value: "SINEM OZUPEK",
-  internal: "0990",
-  external: "08504400990",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 90,
-  fullName: "SISTEM ODASI",
-  value: "SISTEM ODASI",
-  internal: "0919",
-  external: "08504400919",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 91,
-  fullName: "SPOR KULUBU",
-  value: "SPOR KULUBU",
-  internal: "0920",
-  external: "08504400920",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 92,
-  fullName: "SULTANKOY GARAJ",
-  value: "SULTANKOY GARAJ",
-  internal: "0932",
-  external: "08504400932",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 93,
-  fullName: "SULTANKOY VEZNE",
-  value: "SULTANKOY VEZNE",
-  internal: "0901",
-  external: "08504400901",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 94,
-  fullName: "TANER EKİNCİ",
-  value: "TANER EKİNCİ",
-  internal: "0935",
-  external: "08504400935",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 95,
-  fullName: "TANSEL UYAR",
-  value: "TANSEL UYAR",
-  internal: "0950",
-  external: "08504400950",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 96,
-  fullName: "TURAN KAYALI",
-  value: "TURAN KAYALI",
-  internal: "0929",
-  external: "08504400929",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 97,
-  fullName: "UFUK BOZAN",
-  value: "UFUK BOZAN",
-  internal: "0962",
-  external: "08504400962",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 98,
-  fullName: "YASEMIN SOYLU",
-  value: "YASEMIN SOYLU",
-  internal: "0883",
-  external: "08504400883",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 99,
-  fullName: "YAVUZ GÖKMEN",
-  value: "YAVUZ GÖKMEN",
-  internal: "0934",
-  external: "08504400934",
-  email: "N/A",
-  sex: "male"
-}, {
-  id: 100,
-  fullName: "YENICIFTLIK BASKANLIK",
-  value: "YENICIFTLIK BASKANLIK",
-  internal: "0912",
-  external: "08504400912",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 101,
-  fullName: "YENICIFTLIK EMLAK-1",
-  value: "YENICIFTLIK EMLAK-1",
-  internal: "0909",
-  external: "08504400909",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 102,
-  fullName: "YENICIFTLIK EMLAK-2",
-  value: "YENICIFTLIK EMLAK-2",
-  internal: "0910",
-  external: "08504400910",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 103,
-  fullName: "YENICIFTLIK GARAJ",
-  value: "YENICIFTLIK GARAJ",
-  internal: "0933",
-  external: "08504400933",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 104,
-  fullName: "YENICIFTLIK SEKRETERLIK",
-  value: "YENICIFTLIK SEKRETERLIK",
-  internal: "0911",
-  external: "08504400911",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 105,
-  fullName: "YENICIFTLIK VEZNE",
-  value: "YENICIFTLIK VEZNE",
-  internal: "0917",
-  external: "08504400917",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 106,
-  fullName: "YENICIFTLIK ZABITA",
-  value: "YENICIFTLIK ZABITA",
-  internal: "0963",
-  external: "08504400963",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 107,
-  fullName: "ZABITA",
-  value: "ZABITA",
-  internal: "0960",
-  external: "08504400960",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 108,
-  fullName: "ZEHRA GUREL",
-  value: "ZEHRA GUREL",
-  internal: "0891",
-  external: "08504400891",
-  email: "N/A",
-  sex: "female"
-}, {
-  id: 109,
-  fullName: "ZEMIN CAY OCAGI",
-  value: "ZEMIN CAY OCAGI",
-  internal: "0971",
-  external: "08504400971",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 110,
-  fullName: "BELEDIYE FAKS",
-  value: "BELEDIYE FAKS",
-  internal: "0999",
-  external: "08504400999",
-  email: "N/A",
-  sex: "N/A"
-}, {
-  id: 111,
-  fullName: "MERT CANKAYA",
-  value: "MERT CANKAYA",
-  internal: "0926",
-  external: "08504400926",
-  email: "N/A",
-  sex: "male"
-}]
+{
+	"contacts": [{
+			"id": "1",
+			"fullName": "2. KAT CAY OCAGI",
+			"value": "2. KAT CAY OCAGI",
+			"internal": "0967",
+			"external": "08504400967",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "ADEM ILERI",
+			"value": "ADEM ILERI",
+			"internal": "0938",
+			"external": "08504400938",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "AHMET UREN",
+			"value": "AHMET UREN",
+			"internal": "0979",
+			"external": "08504400979",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "GIZEM ERDEMIR",
+			"value": "GIZEM ERDEMIR",
+			"internal": "0961",
+			"external": "08504400961",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "ARSIV",
+			"value": "ARSIV",
+			"internal": "0953",
+			"external": "08504400953",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "ASFALT SANTIYESI",
+			"value": "ASFALT SANTIYESI",
+			"internal": "0930",
+			"external": "08504400930",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "AYSE ALTAY",
+			"value": "AYSE ALTAY",
+			"internal": "0916",
+			"external": "08504400916",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "AYSEGUL AKSU",
+			"value": "AYSEGUL AKSU",
+			"internal": "0887",
+			"external": "08504400887",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "BAHATTİN CAVDAR",
+			"value": "BAHATTİN CAVDAR",
+			"internal": "0925",
+			"external": "08504400925",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "BEGUM KARTAL",
+			"value": "BEGUM KARTAL",
+			"internal": "0890",
+			"external": "08504400890",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "BERKIN CEVIK",
+			"value": "BERKIN CEVIK",
+			"internal": "0957",
+			"external": "08504400957",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "BILAL MUTLU",
+			"value": "BILAL MUTLU",
+			"internal": "0893",
+			"external": "08504400893",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "BINA SORUMLUSU",
+			"value": "BINA SORUMLUSU",
+			"internal": "0973",
+			"external": "08504400973",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "BUSRA CAVDAR",
+			"value": "BUSRA CAVDAR",
+			"internal": "0954",
+			"external": "08504400954",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "CANER ALKIS",
+			"value": "CANER ALKIS",
+			"internal": "0889",
+			"external": "08504400889",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "CEM BURSALI",
+			"value": "CEM BURSALI",
+			"internal": "0978",
+			"external": "08504400978",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "CEVRE DANISMA",
+			"value": "CEVRE DANISMA",
+			"internal": "0975",
+			"external": "08504400975",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "CEYDA DUVENCİ",
+			"value": "CEYDA DUVENCİ",
+			"internal": "0922",
+			"external": "08504400922",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "CICEK GULAY",
+			"value": "CICEK GULAY",
+			"internal": "0952",
+			"external": "08504400952",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "DANISMA",
+			"value": "DANISMA",
+			"internal": "0970",
+			"external": "08504400970",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "IS GUVENLIK UZMANI",
+			"value": "IS GUVENLIK UZMANI",
+			"internal": "0992",
+			"external": "08504400992",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "DENIZ ERMEN",
+			"value": "DENIZ ERMEN",
+			"internal": "0955",
+			"external": "08504400955",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "DERYA BASKAYA",
+			"value": "DERYA BASKAYA",
+			"internal": "0928",
+			"external": "08504400928",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "DEVRIM YASAR YILMAZ",
+			"value": "DEVRIM YASAR YILMAZ",
+			"internal": "0948",
+			"external": "08504400948",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "DILEK BAYRAKTAR",
+			"value": "DILEK BAYRAKTAR",
+			"internal": "0996",
+			"external": "08504400996",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "EBRU SIRAY",
+			"value": "EBRU SIRAY",
+			"internal": "0943",
+			"external": "08504400943",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "EDA ISIK",
+			"value": "EDA ISIK",
+			"internal": "0924",
+			"external": "08504400924",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "ELIF INCE",
+			"value": "ELIF INCE",
+			"internal": "0902",
+			"external": "08504400902",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "EMLAK SERVİSİ",
+			"value": "EMLAK SERVİSİ",
+			"internal": "0977",
+			"external": "08504400977",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "ERBIL OZUM",
+			"value": "ERBIL OZUM",
+			"internal": "0951",
+			"external": "08504400951",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "EREGLI DUGUN SALONU",
+			"value": "EREGLI DUGUN SALONU",
+			"internal": "0983",
+			"external": "08504400983",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "EREGLI GARAJ",
+			"value": "EREGLI GARAJ",
+			"internal": "0931",
+			"external": "08504400931",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "ERSIN ILHAN",
+			"value": "ERSIN ILHAN",
+			"internal": "0903",
+			"external": "08504400903",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "EVRAK DAGITIM",
+			"value": "EVRAK DAGITIM",
+			"internal": "0985",
+			"external": "08504400985",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "EVRAK KAYIT",
+			"value": "EVRAK KAYIT",
+			"internal": "0918",
+			"external": "08504400918",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "EVRAK KAYIT 2",
+			"value": "EVRAK KAYIT 2",
+			"internal": "0915",
+			"external": "08504400915",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "FEYYAZ ALTINKAYNAK",
+			"value": "FEYYAZ ALTINKAYNAK",
+			"internal": "0881",
+			"external": "08504400881",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "FULDEN KAYA",
+			"value": "FULDEN KAYA",
+			"internal": "0980",
+			"external": "08504400980",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "FUSUN DONMEZLER",
+			"value": "FUSUN DONMEZLER",
+			"internal": "0969",
+			"external": "08504400969",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "GENCLIK MERKEZI",
+			"value": "GENCLIK MERKEZI",
+			"internal": "0984",
+			"external": "08504400984",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "GIZEM KUTBAY",
+			"value": "GIZEM KUTBAY",
+			"internal": "0908",
+			"external": "08504400908",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "GIZEM SERTAKAN",
+			"value": "GIZEM SERTAKAN",
+			"internal": "0974",
+			"external": "08504400974",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "GIZEM TUNC",
+			"value": "GIZEM TUNC",
+			"internal": "0981",
+			"external": "08504400981",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "MUMIN DEMIRTAS",
+			"value": "MUMIN DEMIRTAS",
+			"internal": "0936",
+			"external": "08504400936",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "GULUMSER BAYRAKTAR",
+			"value": "GULUMSER BAYRAKTAR",
+			"internal": "0994",
+			"external": "08504400994",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "HANDE AYDIN",
+			"value": "HANDE AYDIN",
+			"internal": "0898",
+			"external": "08504400898",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "HANDE SIRAY",
+			"value": "HANDE SIRAY",
+			"internal": "0982",
+			"external": "08504400982",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "HARUN CALISKAN",
+			"value": "HARUN CALISKAN",
+			"internal": "0945",
+			"external": "08504400945",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "HATICE DEMIR",
+			"value": "HATICE DEMIR",
+			"internal": "0907",
+			"external": "08504400907",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "HICRAN PEHLIVAN",
+			"value": "HICRAN PEHLIVAN",
+			"internal": "0913",
+			"external": "08504400913",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "HIKMET ATA",
+			"value": "HIKMET ATA",
+			"internal": "0989",
+			"external": "08504400989",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "HILAL ISCAN",
+			"value": "HILAL ISCAN",
+			"internal": "0944",
+			"external": "08504400944",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "IHALE SALONU",
+			"value": "IHALE SALONU",
+			"internal": "0894",
+			"external": "08504400894",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "ILKER SUNGUR",
+			"value": "ILKER SUNGUR",
+			"internal": "0880",
+			"external": "08504400880",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "IMAR ARSIV",
+			"value": "IMAR ARSIV",
+			"internal": "0941",
+			"external": "08504400941",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "ISMAIL OZDER",
+			"value": "ISMAIL OZDER",
+			"internal": "0904",
+			"external": "08504400904",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "ISYERI HEKIMI",
+			"value": "ISYERI HEKIMI",
+			"internal": "0968",
+			"external": "08504400968",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "KADER CAMBAZOGLU",
+			"value": "KADER CAMBAZOGLU",
+			"internal": "0895",
+			"external": "08504400895",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": "1",
+			"fullName": "KAYA KOCAMAN",
+			"value": "KAYA KOCAMAN",
+			"internal": "0949",
+			"external": "08504400949",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "MADEN ISLERI",
+			"value": "MADEN ISLERI",
+			"internal": "0906",
+			"external": "08504400906",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": "1",
+			"fullName": "MEHMET ATASOY",
+			"value": "MEHMET ATASOY",
+			"internal": "0947",
+			"external": "08504400947",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": "1",
+			"fullName": "MELEK ARABACI",
+			"value": "MELEK ARABACI",
+			"internal": "0991",
+			"": "08504400991",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 63,
+			"fullName": "MELEK YAMAN",
+			"value": "MELEK YAMAN",
+			"internal": "0884",
+			"external": "08504400884",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 64,
+			"fullName": "MELISA YILMAZ",
+			"value": "MELISA YILMAZ",
+			"internal": "0892",
+			"external": "08504400892",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 65,
+			"fullName": "MELTEM HASGUL",
+			"value": "MELTEM HASGUL",
+			"internal": "0888",
+			"external": "08504400888",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 66,
+			"fullName": "MUHAMMED OZSIYAM",
+			"value": "MUHAMMED OZSIYAM",
+			"internal": "0885",
+			"external": "08504400885",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 67,
+			"fullName": "MÜRVET ERYILMAZ",
+			"value": "MÜRVET ERYILMAZ",
+			"internal": "0976",
+			"external": "08504400976",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 68,
+			"fullName": "MUSTAFA KIRCAOGLU",
+			"value": "MUSTAFA KIRCAOGLU",
+			"internal": "0946",
+			"external": "08504400946",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 69,
+			"fullName": "NALAN YAVUZ",
+			"value": "NALAN YAVUZ",
+			"internal": "0897",
+			"external": "08504400897",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 70,
+			"fullName": "NURTEN DOGAN",
+			"value": "NURTEN DOGAN",
+			"internal": "0940",
+			"external": "08504400940",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 71,
+			"fullName": "OPERATOR",
+			"value": "OPERATOR",
+			"internal": "1010",
+			"external": "08504401010",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 72,
+			"fullName": "OZAY YILMAZ",
+			"value": "OZAY YILMAZ",
+			"internal": "0972",
+			"external": "08504400972",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 73,
+			"fullName": "PARK BAHCE SANTIYE",
+			"value": "PARK BAHCE SANTIYE",
+			"internal": "0900",
+			"external": "08504400900",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 74,
+			"fullName": "PLAN PROJE",
+			"value": "PLAN PROJE",
+			"internal": "0942",
+			"external": "08504400942",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 75,
+			"fullName": "PROJE RUHSAT",
+			"value": "PROJE RUHSAT",
+			"internal": "0956",
+			"external": "08504400956",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 76,
+			"fullName": "SAIM DEMIRYOL",
+			"value": "SAIM DEMIRYOL",
+			"internal": "0886",
+			"external": "08504400886",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 77,
+			"fullName": "SEKRETERLIK",
+			"value": "SEKRETERLIK",
+			"internal": "0993",
+			"external": "08504400993",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 78,
+			"fullName": "SELEN DONMEZ",
+			"value": "SELEN DONMEZ",
+			"internal": "0896",
+			"external": "08504400896",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 79,
+			"fullName": "SELIN OF",
+			"value": "SELIN OF",
+			"internal": "0927",
+			"external": "08504400927",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 80,
+			"fullName": "SEMANUR MERCAN",
+			"value": "SEMANUR MERCAN",
+			"internal": "0923",
+			"external": "08504400923",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 81,
+			"fullName": "SEMRA ACAR",
+			"value": "SEMRA ACAR",
+			"internal": "0899",
+			"external": "08504400899",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 82,
+			"fullName": "SENA ILERI",
+			"value": "SENA ILERI",
+			"internal": "0958",
+			"external": "08504400958",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 83,
+			"fullName": "SENOL OSMANOGLU",
+			"value": "SENOL OSMANOGLU",
+			"internal": "0882",
+			"external": "08504400882",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 84,
+			"fullName": "SERKAN KILICCI",
+			"value": "SERKAN KILICCI",
+			"internal": "0905",
+			"external": "08504400905",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 85,
+			"fullName": "SEVVAL ZAFER",
+			"value": "SEVVAL ZAFER",
+			"internal": "0995",
+			"external": "08504400995",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 86,
+			"fullName": "SİBEL CARTI",
+			"value": "SİBEL CARTI",
+			"internal": "0937",
+			"external": "08504400937",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 87,
+			"fullName": "SIBEL DEMIRYOL",
+			"value": "SIBEL DEMIRYOL",
+			"internal": "0914",
+			"external": "08504400914",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 88,
+			"fullName": "SIBEL GULOVA",
+			"value": "SIBEL GULOVA",
+			"internal": "0939",
+			"external": "08504400939",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 89,
+			"fullName": "SINEM OZUPEK",
+			"value": "SINEM OZUPEK",
+			"internal": "0990",
+			"external": "08504400990",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 90,
+			"fullName": "SISTEM ODASI",
+			"value": "SISTEM ODASI",
+			"internal": "0919",
+			"external": "08504400919",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 91,
+			"fullName": "SPOR KULUBU",
+			"value": "SPOR KULUBU",
+			"internal": "0920",
+			"external": "08504400920",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 92,
+			"fullName": "SULTANKOY GARAJ",
+			"value": "SULTANKOY GARAJ",
+			"internal": "0932",
+			"external": "08504400932",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 93,
+			"fullName": "SULTANKOY VEZNE",
+			"value": "SULTANKOY VEZNE",
+			"internal": "0901",
+			"external": "08504400901",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 94,
+			"fullName": "TANER EKİNCİ",
+			"value": "TANER EKİNCİ",
+			"internal": "0935",
+			"external": "08504400935",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 95,
+			"fullName": "TANSEL UYAR",
+			"value": "TANSEL UYAR",
+			"internal": "0950",
+			"external": "08504400950",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 96,
+			"fullName": "TURAN KAYALI",
+			"value": "TURAN KAYALI",
+			"internal": "0929",
+			"external": "08504400929",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 97,
+			"fullName": "UFUK BOZAN",
+			"value": "UFUK BOZAN",
+			"internal": "0962",
+			"external": "08504400962",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 98,
+			"fullName": "YASEMIN SOYLU",
+			"value": "YASEMIN SOYLU",
+			"internal": "0883",
+			"external": "08504400883",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 99,
+			"fullName": "YAVUZ GÖKMEN",
+			"value": "YAVUZ GÖKMEN",
+			"internal": "0934",
+			"external": "08504400934",
+			"email": "N/A",
+			"sex": "male"
+		},
+		{
+			"id": 100,
+			"fullName": "YENICIFTLIK BASKANLIK",
+			"value": "YENICIFTLIK BASKANLIK",
+			"internal": "0912",
+			"external": "08504400912",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 101,
+			"fullName": "YENICIFTLIK EMLAK-1",
+			"value": "YENICIFTLIK EMLAK-1",
+			"internal": "0909",
+			"external": "08504400909",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 102,
+			"fullName": "YENICIFTLIK EMLAK-2",
+			"value": "YENICIFTLIK EMLAK-2",
+			"internal": "0910",
+			"external": "08504400910",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 103,
+			"fullName": "YENICIFTLIK GARAJ",
+			"value": "YENICIFTLIK GARAJ",
+			"internal": "0933",
+			"external": "08504400933",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 104,
+			"fullName": "YENICIFTLIK SEKRETERLIK",
+			"value": "YENICIFTLIK SEKRETERLIK",
+			"internal": "0911",
+			"external": "08504400911",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 105,
+			"fullName": "YENICIFTLIK VEZNE",
+			"value": "YENICIFTLIK VEZNE",
+			"internal": "0917",
+			"external": "08504400917",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 106,
+			"fullName": "YENICIFTLIK ZABITA",
+			"value": "YENICIFTLIK ZABITA",
+			"internal": "0963",
+			"external": "08504400963",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 107,
+			"fullName": "ZABITA",
+			"value": "ZABITA",
+			"internal": "0960",
+			"external": "08504400960",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 108,
+			"fullName": "ZEHRA GUREL",
+			"value": "ZEHRA GUREL",
+			"internal": "0891",
+			"external": "08504400891",
+			"email": "N/A",
+			"sex": "female"
+		},
+		{
+			"id": 109,
+			"fullName": "ZEMIN CAY OCAGI",
+			"value": "ZEMIN CAY OCAGI",
+			"internal": "0971",
+			"external": "08504400971",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 110,
+			"fullName": "BELEDIYE FAKS",
+			"value": "BELEDIYE FAKS",
+			"internal": "0999",
+			"external": "08504400999",
+			"email": "N/A",
+			"sex": "N/A"
+		},
+		{
+			"id": 111,
+			"fullName": "MERT CANKAYA",
+			"value": "MERT CANKAYA",
+			"internal": "0926",
+			"external": "08504400926",
+			"email": "N/A",
+			"sex": "male"
+		}
+	]
 }
